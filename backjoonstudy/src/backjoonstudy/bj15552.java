@@ -22,7 +22,7 @@ public class bj15552 {
 			}
 			bw.close();
 		}catch(Exception e) {
-			System.out.println("exception make");
+			System.out.println("예외발생했심");
 			e.printStackTrace();
 		}
        }
