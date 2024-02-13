@@ -16,4 +16,4 @@ public class bj11021 {
 		scanner.close();
 	}
 
-}
+} 
